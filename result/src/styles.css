@@ -1,0 +1,41 @@
+.sprite {
+display: inline-block;
+ background: url('../src/sprite.png') no-repeat;
+ }
+
+#img1 {
+ background-position: -0px -0px;
+ width: 200px;
+ height: 200px;
+ }
+
+#img2 {
+ background-position: -0px -200px;
+ width: 200px;
+ height: 200px;
+ }
+
+#img3 {
+ background-position: -0px -400px;
+ width: 200px;
+ height: 200px;
+ }
+
+#img4 {
+ background-position: -0px -600px;
+ width: 200px;
+ height: 200px;
+ }
+
+#img5 {
+ background-position: -0px -800px;
+ width: 200px;
+ height: 200px;
+ }
+
+#img6 {
+ background-position: -0px -1000px;
+ width: 200px;
+ height: 200px;
+ }
+
